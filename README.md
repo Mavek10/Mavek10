@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Athenkosi Freddie</h1>
 <h3 align="center">A passionate beginner front-end developer from South Africa🇿🇦🧑‍💻</h3>
-<img align="right" alt="web development" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvVzCRQKHaQde3rHnHzqykHBq-495err9YQQ&usqp=CAU">
+<img align="right" alt="web development" width="400" src="https://hemalcorporation.com/wp-content/uploads/2020/02/web-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mavek10&label=Profile%20views&color=0e75b6&style=flat" alt="mavek10" /> </p>
 
