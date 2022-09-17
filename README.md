@@ -1,4 +1,4 @@
-[MasterHead](https://1.bp.blogspot.com/https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKbDi22QESQacklSU7XHRbqQYWgoKAl0XTTg&usqp=CAU)]
+
 
 <h1 align="center">Hi 👋, I'm Athenkosi Freddie</h1>
 <h3 align="center">A passionate beginner front-end developer from South Africa🇿🇦🧑‍💻</h3>
