@@ -1,4 +1,4 @@
-P
+
 
 <h1 align="center">Hi 👋, I'm Athenkosi Freddie</h1>
 <h3 align="center">A passionate beginner front-end developer from South Africa🇿🇦🧑‍💻</h3>
